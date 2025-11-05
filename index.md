@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="assets/css/style.css">
+
 # Automation QA Portfolio — Planned
 
 This repository will host **small, pragmatic automation assists** that support manual testing — quick smoke/regression checks and lightweight UI assertions.
